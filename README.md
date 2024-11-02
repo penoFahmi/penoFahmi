@@ -1,6 +1,6 @@
 
 # Hi semua! 👋
-Saya **penoFahmi**, atau dikenal juga sebagai **"a professional copy paster"** 😆. Sebagai developer aplikasi mobile dengan fokus pada Android dan Java, saya suka menggabungkan kreativitas dengan solusi praktis. Baik itu mengembangkan fitur baru atau menemukan cara efektif untuk menyelesaikan tantangan, saya siap membantu—tentu dengan sedikit sentuhan "copy-paste profesional" untuk efisiensi! 🚀
+Saya **Peno**, atau dikenal juga sebagai **"a professional copy paster"** 😆. Sebagai developer aplikasi mobile dengan fokus pada Android dan Java, saya suka menggabungkan kreativitas dengan solusi praktis. Baik itu mengembangkan fitur baru atau menemukan cara efektif untuk menyelesaikan tantangan, saya siap membantu—tentu dengan sedikit sentuhan "copy-paste profesional" untuk efisiensi! 🚀
 
 - 🔭 Saat ini sedang mengerjakan proyek-proyek menarik di pengembangan mobile Android.
 - 🌱 Selalu belajar dan bereksperimen dengan tools dan teknik terbaru di dunia mobile dev.
