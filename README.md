@@ -1,3 +1,4 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
 
 # Hi semua! 👋
 Saya **penoFahmi**, atau dikenal juga sebagai **"a professional copy paster"** 😆. Sebagai developer aplikasi mobile dengan fokus pada Android dan Java, saya suka menggabungkan kreativitas dengan solusi praktis. Baik itu mengembangkan fitur baru atau menemukan cara efektif untuk menyelesaikan tantangan, saya siap membantu—tentu dengan sedikit sentuhan "copy-paste profesional" untuk efisiensi! 🚀
