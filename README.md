@@ -16,7 +16,7 @@ Mari terhubung dan buat sesuatu yang keren bersama!
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=penoFahmi&show_icons=true&theme=tokyonight)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@penofahmi) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCe9l6F1ZvWIKSOXVP-mC-Qg) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fahmi.peno)
 
 <!--
