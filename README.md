@@ -23,4 +23,5 @@ Mari terhubung dan buat sesuatu yang keren bersama!
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 -->
+
 ![Animasi ular](https://raw.githubusercontent.com/penoFahmi/penoFahmi/output/github-contribution-grid-snake-dark.svg)
