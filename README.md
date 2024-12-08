@@ -25,3 +25,4 @@ Mari terhubung dan buat sesuatu yang keren bersama!
 -->
 
 ![Animasi ular](https://raw.githubusercontent.com/penoFahmi/penoFahmi/output/github-contribution-grid-snake-dark.svg)
+![Animasi ular]( https://raw.githubusercontent.com/penoFahmi/penoFahmi/output/github-contribution-grid-snake-dark.svg )
