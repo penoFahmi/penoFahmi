@@ -1,6 +1,6 @@
 
 # Hi semua! 👋
-Saya **Peno**, atau dikenal juga sebagai **"a professional copy paster"** 😆. Sebagai developer pemula dan sangat cupu, saya suka menggabungkan kreativitas dengan solusi praktis. Saya siap membantu tentu dengan sentuhan "copy-paste profesional" untuk efisiensi! wkwkwkw😆🚀😆🚀😆
+Hai apa kabar, saya dikenal juga sebagai **"a professional copy paster"** 😆. Sebagai developer pemula dan sangat cupu, saya suka menggabungkan kreativitas dengan solusi praktis. Saya siap membantu tentu dengan sentuhan "copy-paste profesional" untuk efisiensi! wkwkwkw😆🚀😆🚀😆
 <!--
 - 🔭 Saat ini sedang mengerjakan proyek-proyek menarik di pengembangan mobile Android.
 - 🌱 Selalu belajar dan bereksperimen dengan tools dan teknik terbaru di dunia mobile dev.
