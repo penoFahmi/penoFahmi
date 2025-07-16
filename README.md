@@ -2,6 +2,12 @@ Hai semua! 👋
 
 Gimana kabarnya? Kenalan yuk, saya si "professional copy paster" yang kadang suka nimbrung. 😆 Jujur aja, sebagai developer pemula yang masih merangkak, saya suka banget gabungin ide kreatif sama solusi praktis. Intinya, saya siap bantu kamu dengan sentuhan "copy-paste profesional" biar kerjaan makin efisien! Wkwkwk 🚀
 
+### 📬 Ngopi Bareng Virtual Yuk!
+Yuk ngobrol atau sekadar say 'hi' di sini:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fahmi.peno)
+---
+
 Mari ngobrol dan bikin sesuatu yang keren bareng!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=penoFahmi&show_icons=true&theme=tokyonight)
