@@ -7,17 +7,7 @@ Gimana kabarnya? Kenalin, saya si **"professional copy paster"** yang kadang suk
 ### 📊 Statistik Ngoding & Bahasa Favorit
 Lihat perjalanan ngoding saya dan bahasa apa saja yang sering saya pakai:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=penoFahmi&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=penoFahmi&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=penoFahmi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=penoFahmi&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
----
 
 ### 📬 Ngopi Bareng Virtual Yuk!
 Yuk ngobrol atau sekadar say 'hi' di sini:
