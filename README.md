@@ -3,10 +3,6 @@ Hai semua! 👋
 Gimana kabarnya? Kenalin, saya si **"professional copy paster"** yang kadang suka nimbrung. 😂 Jujur aja, sebagai developer pemula yang masih merangkak, saya suka banget gabungin ide kreatif sama solusi praktis. Intinya, saya siap bantu kamu dengan sentuhan "copy-paste profesional" biar kerjaan makin efisien! Wkwkwk 🚀
 
 ---
-
-### 📊 Statistik Ngoding & Bahasa Favorit
-Lihat perjalanan ngoding saya dan bahasa apa saja yang sering saya pakai:
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=penoFahmi&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 📬 Ngopi Bareng Virtual Yuk!
